@@ -1,9 +1,8 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
-using Combat.Units.Components;
 
-namespace Combat.Units
+namespace Units
 {
     /// <summary>
     /// 基础单位类

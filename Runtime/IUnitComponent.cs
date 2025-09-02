@@ -1,4 +1,4 @@
-namespace Combat.Units.Components
+namespace Units
 {
     /// <summary>
     /// 单位组件接口
